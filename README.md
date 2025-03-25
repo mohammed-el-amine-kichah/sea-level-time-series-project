@@ -6,7 +6,7 @@ This project analyzes historical sea level rise data using time series modeling.
 ## Dataset
 - **Source**: [DataHub - Sea Level Rise](https://datahub.io/core/sea-level-rise)
 - **Contents**: Global mean sea level measurements over time.
-- **Time Span**: 1850-2014
+- **Time Span**: 1880-2019
 - **Sampling Frequency**: Annual
 
 ## Project Structure
